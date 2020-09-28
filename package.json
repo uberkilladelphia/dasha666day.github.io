@@ -1,7 +1,7 @@
 {
   "name": "crt",
   "version": "1.0.0",
-  "description": "DASHA 666 DAY",
+  "description": "CRT Monitor Demo",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -18,12 +18,12 @@
   "keywords": [
     "css"
   ],
-  "No author required": "",
-  "It's cyberpunk already": "",
-  "": {
-    "": ""
+  "author": "Anders Evenrud <andersevenrud@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andersevenrud/retro-css-shell-demo/issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com/andersevenrud/retro-css-shell-demo#readme",
   "devDependencies": {
     "@babel/core": "^7.0.0-rc.1",
     "@babel/plugin-transform-runtime": "^7.0.0-rc.1",
